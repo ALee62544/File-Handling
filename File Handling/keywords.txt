@@ -1,0 +1,29 @@
+BIOS
+basic input/output system that is used upon computer start up
+
+Unicode
+an encoding standard for use with different languages and scripts
+
+Procedure
+a named block of code or a set of instructions that does not return a value
+
+Function
+a named block of code or a set of instructions that does return a value
+
+Branching/Selection
+a programming instruction directs another part of the program to be executed
+
+Iteration
+a programming instruction that is repeatedly executed until a condition is met
+
+Sequencing
+a programming instruction in which instructions are perfomed in an algorithm
+
+Parameters
+a special type of variable that is used in a function or procedure
+
+UEFI
+a software program that connects a computer's firmware to its operating system
+
+Firmware
+a permanent software programmed into a read-only memory
